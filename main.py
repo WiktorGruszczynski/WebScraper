@@ -4,8 +4,9 @@ from time import time
 
 
 url = f"https://google.com"
+iterations = 100
 
-url_list = [url for i in range(1)]
+url_list = [url for i in range(iterations)]
 
 
 t0=time()
