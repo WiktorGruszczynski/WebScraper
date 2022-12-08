@@ -6,6 +6,7 @@ from time import time
 url = f"https://google.com"
 iterations = 100
 
+#example url list
 url_list = [url for i in range(iterations)]
 
 
